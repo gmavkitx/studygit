@@ -10,5 +10,6 @@ public class App
     {
         System.out.println( "Hello World!" );
         System.out.println( "ruhai update." );
+        System.out.println( "ruhai update 2." );
     }
 }
